@@ -1,0 +1,17 @@
+# git add branch and merge work flow
+1. git clone (new repository) /
+   git pull (old repository)
+2. git checkout -b {branch}
+3. git add
+4. git commit
+5. git push origin {branch}
+6. git switch main
+7. git pull
+8. git merge {branch}
+9. git push origin main
+
+# git delete branch
+1. git switch main
+2. git branch -d {brancd}
+3. git push origin --delete {branch}
+
