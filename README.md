@@ -5,7 +5,7 @@ Dancing Through The Decades
 
 Group:
     Brett Scotland
-    Darren McMurtie
+    Darren McMurtrie
     Jesse Tan
     Kailyn 
     Will Bobzin
