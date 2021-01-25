@@ -11,7 +11,6 @@ Jesse Tan
 Kailyn Yong
 Will Bobzin
 
-Premise:
 We are all passionate about music! Far from the days of vinyl albums and cassettes, streaming is king in 2021. Last year, 286 million people were active users of Spotify. 130 million of those enjoyed it enough to pay for a premium service, removing advertisements and other limitations.
 
 Being a streaming platform, Spotify has access to a wealth of information not only of user’s listening habits but also on the music itself. Through algorithms, Spotify measures, classifies and segments music to understand and predict the taste of each user. To this purpose, it utilizes categories such as tempo, danceability, liveness or speechiness.
