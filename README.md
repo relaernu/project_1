@@ -25,11 +25,3 @@ Data:
 Spotify dataset (1921 – 2020) (CSV) , consolidated by Kaggle user Yamaç Eren Ay, retrieved 12-JAN-21 - https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data.csv
 TripleJ Hottest 100 dataset (1993 - 2017) (CSV) consolidated by Kaggle user MJ, retrieved 14-JAN-21 - https://www.kaggle.com/mijames/jjj-hottest-100 
 
-Questions:
-•	What makes a Hottest 100 Winner?
-•	What is the perfect time to release a song? 
-•	What Australian songs do Australians' vote for?
-•	Do Australians prefer long songs? 
-
-
-
