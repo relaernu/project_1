@@ -2,7 +2,7 @@ MONU-MEL-DATA-PT-11-2020-U-C
 Project Proposal – Project 1
 
 Let the music speak
-Objectively understanding Australian taste in music
+Unearthing Australian music trends
 
 Group 2:
 Brett Scotland
@@ -12,15 +12,20 @@ Kailyn Yong
 Will Bobzin
 
 Premise:
-Far from the days of vinyl albums and cassettes, streaming is king in 2021. Last year, 286 million people were active users of Spotify. 130 million of those enjoyed it enough to pay for a premium service, removing advertisements and other limitations.
+We are all passionate about music! Far from the days of vinyl albums and cassettes, streaming is king in 2021. Last year, 286 million people were active users of Spotify. 130 million of those enjoyed it enough to pay for a premium service, removing advertisements and other limitations.
+
 Being a streaming platform, Spotify has access to a wealth of information not only of user’s listening habits but also on the music itself. Through algorithms, Spotify measures, classifies and segments music to understand and predict the taste of each user. To this purpose, it utilizes categories such as tempo, danceability, liveness or speechiness.
+
 We were particularly interested in using Spotify’s musical analysis to understand what popular songs have in common.
+
 To measure popularity, we looked at Australia’s renowned music listener poll: Triple Js Hottest 100. Australian radio station Triple J holds a yearly contest, where listeners vote for their favourite songs of the year.
+
 Though emphasis is placed on Australian and alternative music, it serves as a useful reference point as yearly votes are counted in the millions. We believe that concentrating on Triple J Hottest 100 serves a double purpose by adding a “local twist” to this analysis, while also limiting the scope to a manageable level.
 
 The Data:
-We have a data file extracted from Spotify, with information of more than 160.000 songs released between 1921 and 2020. The data includes the usual music information (Artist, song, duration, date of release, etc.) as well as the technical analysis described above.
+We have a data file extracted from Spotify, with information of more than 170,000 songs released between 1921 and 2020. The data includes the usual music information (Artist, song, duration, date of release, etc.) as well as the technical analysis described above.
 We also have a smaller dataset containing the Triple J Hottest 100 ranking for each year between 1993 and 2017. This dataset includes artist, song title and country of origin of the artist, among other categories.
+
 The Questions:
 
 •	What makes a Triple J winner? Mashing data between Spotify and Triple J databases for 1993 to 2017. Get technical/numerical information for each song based on Spotify analytics. Compare some key elements in all triple j winners to determine commonalities – For example: loudness, danceability.
